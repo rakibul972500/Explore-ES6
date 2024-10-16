@@ -13,5 +13,6 @@ const Motlob=new person('Motlob Ali',40)
 console.log(Motlob);
 Motlob.sleep();
 
+// calling another function
 const bhubon=new person('Badam kaku', 55);
 bhubon.sleep()
